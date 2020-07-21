@@ -1,6 +1,4 @@
-Esta es la historia de Andres Quimbayo
-
-Andres Quimbayo tiene 27 años y nació en Colombia,
-viviendo en todo el mundo
-
-Hoy hablaremos de su historia.
+ Actualmente programar es una carrera entre los ingenieros en software por hacer grandes y mejores programas a prueba de idiotas,
+ contra el universo que se empeña en hacer mas grandes y mejores idiotas. 
+ 
+ Por ahora, el universo gana por lejos.
